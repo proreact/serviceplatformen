@@ -28,7 +28,6 @@
         "composer-runtime-api": "^2.2",
         "goetas-webservices/xsd2php-runtime": "^0.2.16",
         "http-interop/http-factory-guzzle": "^1.2",
-        "itk-dev/azure-key-vault-php": "^1.0",
         "jms/serializer": "^3.18",
         "php-http/guzzle7-adapter": "^1.0",
         "symfony/cache": "^5.4 || ^6.0 || ^7.0",
